@@ -26,7 +26,7 @@ sudo apt-get update
 
 sudo apt-get -y install gcc
 sudo apt-get -y install g++
-sudo apt-get -y install mai
+sudo apt-get -y install man
 
 
 
