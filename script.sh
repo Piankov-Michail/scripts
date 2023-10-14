@@ -20,7 +20,7 @@ sudo snap install zoom-client
 
 sudo apt-get -y install gcc
 sudo apt-get -y install g++
-sudo apt-get -y install man
+sudo apt-get -y install make
 
 
 
