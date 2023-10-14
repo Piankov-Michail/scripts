@@ -1,5 +1,5 @@
-sudo apt-get update
-sudo apt-get dist-upgrade
+sudo apt-get -y update
+sudo apt-get -y dist-upgrade
 
 sudo snap install telegram-desktop
 sudo apt-get update
@@ -24,9 +24,9 @@ sudo apt-get update
 sudo snap install zoom-client
 sudo apt-get update
 
-sudo apt-get install gcc
-sudo apt-get install g++
-sudo apt-get install mai
+sudo apt-get -y install gcc
+sudo apt-get -y install g++
+sudo apt-get -y install mai
 
 
 
