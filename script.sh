@@ -18,6 +18,7 @@ sudo snap install libreoffice
 
 sudo snap install zoom-client
 
+sudo apt-get -y install vim
 sudo apt-get -y install gcc
 sudo apt-get -y install g++
 sudo apt-get -y install make
