@@ -6,3 +6,5 @@
 * удаление всех файлов с расширением :Zone.Identifier (полезно для копировании файлов в WSL2)
 ### [find_path_to_wsl2_linux](https://github.com/Piankov-Michail/scripts/blob/main/find_path_to_wsl2_linux.sh)
 * Команда открывает проводник в хранилище WSL2 Linux
+### [change_gpu.sh](https://github.com/Piankov-Michail/scripts/blob/main/change_gpu.sh)
+* Переключение интегрированной и дискретной видеокарты
