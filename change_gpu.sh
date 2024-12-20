@@ -1,4 +1,4 @@
 prime-select query
-lspci | grep VGA
+sudo lshw -C display
 # sudo prime-select nvidia
 sudo prime-select intel
